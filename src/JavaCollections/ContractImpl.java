@@ -14,4 +14,10 @@ public class ContractImpl implements Contract {
 		
 	}
 
+	@Override
+	public void extendedTerm() {
+		System.out.println("Implemenation:extendedTerm");
+		
+	}
+
 }

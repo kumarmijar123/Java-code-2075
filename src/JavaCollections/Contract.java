@@ -1,6 +1,6 @@
 package JavaCollections;
 
-public interface Contract {
+public interface Contract extends ExtendedContract{
 	
 	public void term1();
 

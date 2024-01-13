@@ -11,5 +11,6 @@ public class Application {
 	public static void printTerms(Contract contract) {
 		contract.term1();
 		contract.term2();
+		contract.extendedTerm();
 	}
 }
